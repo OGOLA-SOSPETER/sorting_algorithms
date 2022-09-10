@@ -1,0 +1,8 @@
+get_opcodes.c 
+malloc_functions.c 
+monttys.h       
+opcode_instructions2.c  
+opcode_instructions4.c 
+opcode_instructions3.c  
+opcode_instructions.c  
+str_functions.c
