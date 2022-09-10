@@ -76,3 +76,4 @@ void _nop(stack_t **doubly, unsigned int cline);
 void _sub(stack_t **doubly, unsigned int cline);
 void _div(stack_t **doubly, unsigned int cline);
 
+#endif
