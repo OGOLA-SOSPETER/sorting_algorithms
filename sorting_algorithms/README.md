@@ -1,1 +1,1 @@
-project readme on sorting algorithms
+project readme
